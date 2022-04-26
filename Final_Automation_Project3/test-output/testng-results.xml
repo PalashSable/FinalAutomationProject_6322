@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T19:19:56 IST" name="Default suite" finished-at="2022-04-23T19:21:57 IST" duration-ms="120932">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T19:19:56 IST" name="Default test" finished-at="2022-04-23T19:21:57 IST" duration-ms="120932">
+      <class name="lapcare.Lapcare_YouTube_module">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:lapcare.Lapcare_YouTube_module@342c38f8]" started-at="2022-04-23T19:19:56 IST" name="beforeTest" finished-at="2022-04-23T19:20:15 IST" duration-ms="19448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="feedback()[pri:1, instance:lapcare.Lapcare_YouTube_module@342c38f8]" started-at="2022-04-23T19:20:15 IST" name="feedback" finished-at="2022-04-23T19:20:50 IST" duration-ms="34987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feedback -->
+        <test-method signature="Youtube()[pri:2, instance:lapcare.Lapcare_YouTube_module@342c38f8]" started-at="2022-04-23T19:20:50 IST" name="Youtube" finished-at="2022-04-23T19:21:50 IST" duration-ms="59418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Youtube -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:lapcare.Lapcare_YouTube_module@342c38f8]" started-at="2022-04-23T19:21:50 IST" name="afterTest" finished-at="2022-04-23T19:21:57 IST" duration-ms="6995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- lapcare.Lapcare_YouTube_module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
